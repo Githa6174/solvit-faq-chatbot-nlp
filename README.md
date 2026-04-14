@@ -13,4 +13,4 @@ Sistem Tanya Jawab (Chatbot) otomatis untuk layanan IT Support SolvIT Bali. Meng
 3. Masukkan pertanyaan pada fungsi `chatbot_solvit()`.
 
 ---
-*Project by: Pak Githa | SolvIT Bali*
+*Project by: GITHA AMYGUNA SolvIT Bali*
